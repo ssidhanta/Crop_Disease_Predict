@@ -1,0 +1,42 @@
+Supratik Mukhopadhyay Rama Nemani
+
+Pest Detection/Prediction
+
+Graph
+
+Pest Control
+
+Tensorflow....open dataset
+
+ROC curve
+
+graph
+
+----------------
+
+https://towardsdatascience.com/plant-ai-plant-disease-detection-using-convolutional-neural-network-9b58a96f2289
+
+https://innovate.mygov.in/wp-content/uploads/2018/09/mygov1536109003113172.pdf
+
+------------------
+
+
+https://www.kaggle.com/emmarex/plant-disease-detection-using-keras
+
+
+https://github.com/NVIDIA/TensorRT
+
+---------------
+
+https://ddkang.github.io/2019/09/19/installing-tensorrt.html
+
+python3
+
+import checkDisease
+
+checkDisease.main()
+
+
+
+------------------------
+
